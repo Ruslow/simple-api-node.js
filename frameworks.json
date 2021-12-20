@@ -1,0 +1,121 @@
+[
+    {
+      "name": "Angular",
+      "image": "https://hackr.io/blog/media/1570190909rF4xFLDbsx.jpg",
+      "desc": "One of the most powerful, efficient, and open-source JavaScript frameworks is Angular. Google operates this framework and is implemented to use for developing a Single Page Application (SPA). It extends the HTML into the application and interprets the attributes to perform data binding.",
+      "features": [
+        "Cross-Platform",
+        "Speed and Performance",
+        "Productivity",
+        "Full Development Story"
+      ]
+    },
+    {
+      "name": "React",
+      "image": "https://hackr.io/blog/media/react-2.png",
+      "desc": "Created by Facebook, the React framework has earned popularity within a short period. It is used to develop and operate the dynamic User Interface of the web pages with high incoming traffic. It makes the use of a virtual DOM, and hence, the integration of the same with any application is more straightforward.",
+      "features": [
+        "Declarative",
+        "Virtual DOM",
+        "Event handling",
+        "JSX",
+        "Performance",
+        "React Native",
+        "Component-Based"
+      ]
+    },
+    {
+      "name": "Vue",
+      "image": "https://hackr.io/blog/media/1570190909ugzxr0Xhgs.jpg",
+      "desc": "Though developed in the year 2016, this JavaScript framework has already made its way into the market and has proven its worth by offering various features. Its dual integration mode is one of the most attractive features for creating high-end SPA or Single Page Application. It is a much reliable platform for developing cross-platform.",
+      "features": [
+        "Virtual DOM",
+        "Data Binding",
+        "CSS Transitions and Animations",
+        "Template",
+        "Methods",
+        "Method"
+      ]
+    },
+    {
+      "name": "Ember",
+      "image": "https://hackr.io/blog/media/emberjs.png",
+      "desc": "The introduction of Ember.js to the software market was 2015, and since then, it has gained popularity with its wide application area. The features of Ember.js support two-way data binding and hence, establish a reliable platform for handling the complicated User Interfaces. Popular websites like LinkedIn, Netflix, Nordstrom, and many more use the Ember.JS platform for their websites."
+    },
+    {
+      "name": "Meteor",
+      "image": "https://hackr.io/blog/uploads/images/1570190909g1yEqokQxp.jpg",
+      "desc": "Meteor's application area (aka Meteor.js or MeteorJS) serves the name itself since it is varied as it covers almost the significant portion of the software development. Uses of this framework include significant areas like back-end development, management of the database, business logic, and rendering of the front-end.",
+      "features": [
+        "Full-Stack Solution",
+        "Development Ecosystem",
+        "Isomorphic JavaScript Code",
+        "Front-end Solution ",
+        "Database Integration "
+      ]
+    },
+    {
+      "name": "Mithril",
+      "image": "https://hackr.io/blog/media/mithril.png",
+      "desc": "Mithril is a client-side JavaScript framework that is used primarily in developing the Single Page Applications. As there are no derived functions from a base class, the framework's implementation is more straightforward. It's small (< 8kb gzip), fast and provides routing and XHR utilities out of the box. It has a few features similar to React.",
+      "features": [
+        "Full-Stack Solution",
+        "Development Ecosystem",
+        "Isomorphic JavaScript Code",
+        "Front-end Solution ",
+        "Database Integration "
+      ]
+    },
+    {
+      "name": "Node",
+      "image": "https://hackr.io/blog/media/nodejs.png",
+      "desc": "Node.js is a server-side JavaScript run-time environment, which works on cross platforms and is open-source. The framework is capable of driving asynchronous I/O with its event-driven architecture. It works in the JavaScript Runtime environment and shows JAVA's similar properties like threading, packaging, o forming loops.",
+      "features": [
+        "It is swift",
+        "I/O is asynchronous and Event-Driven",
+        "Single-threaded",
+        "Highly scalable",
+        "No buffering",
+        "Open source",
+        "License"
+      ]
+    },
+    {
+      "name": "Polymer",
+      "image": "https://hackr.io/blog/media/polymer-1.png",
+      "desc": "The polymer is an open-source JavaScript library developed by Google, which can create the website's elements without going into a complex level. Also, it supports both one-way and two-way data binding, hence making a more extensive application area.",
+      "features": [
+        "Polymer.js is a JavaScript library built on top of the web-standard APIs that provides the simplest way to create custom HTML elements.",
+        "It gives the polyfills for creating customized and reusable elements.",
+        "It is used for the creation of reusable widgets in web documents and applications.",
+        "It uses Google material design to develop mobile applications for fast and easy to development of mobile applications.",
+        "The custom elements are distributed across the network and allow users to use these elements with the help of HTML Imports."
+      ]
+    },
+    {
+      "name": "Aurelia",
+      "image": "https://hackr.io/blog/media/aurelia-1.png",
+      "desc": "Aurelia framework is the latest version of JavaScript, which can be used to implement any interface. It is the next generation of the framework for developing far more robust websites. The framework of Aurelia can extend the HTML for various purposes, including data binding. Also, its modern architecture ensures that the purpose of toll is for interpretation client-side and server-side at a time.",
+      "features": [
+        "Components",
+        "Web Standards",
+        "Extensible",
+        "Commercial Support",
+        "License"
+      ]
+    },
+    {
+      "name": "Blackbone",
+      "image": "https://hackr.io/blog/media/1570190908wb5UQG54mg.jpg",
+      "desc": "It is one of the most popular JavaScript frameworks. It is effortless to understand and learn. It can be used to create Single Page Applications. The development of this framework involves the idea that all the server-side functions must flow through an API, which would help achieve complex functionalities by writing less code.",
+      "features": [
+        "BackboneJS uses JavaScript functions, making the development of applications and the frontend in a much easier.",
+        "Building blocks such as models, views, events, routers, and collections are provided for assembling the client-side web applications.",
+        "It is a simple library that helps in separating business and user interface logic",
+        "It is a backbone for any project and helps in the organization of the code",
+        "BackboneJS has a soft dependency on jQuery and a hard dependency on Underscore.js",
+        "It allows us to create client-side web applications or mobile applications in a well-structured and organized format"
+      ]
+    }
+  ]
+  
